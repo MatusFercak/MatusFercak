@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MatusFercak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Vitajte na mojom git účte  
 
-<!---
-MatusFercak/MatusFercak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Som študentom na Technickej univerzite v Košiciach 
+- 🦾🤖 Študujem na katedre kybernetiky inteligentne systémy 
+- 🔬 Venujem sa algoritmizacii a programovaniu 
+
+<br/>
+<br/>
+
+### Kontaktujte ma 
+- mail: matusfercak@gmail.com
+- tel. č.: <a href="">+4219 363 199</a>
