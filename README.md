@@ -1,7 +1,7 @@
 ## Vitajte na mojom git účte  
 
 ### Som študentom na Technickej univerzite v Košiciach 
-- Študujem na katedre kybernetiky inteligentne systémy 
+- Študujem na KKUI inteligentne systémy 
 - Venujem sa algoritmizacii a programovaniu 
 
 <br/>
