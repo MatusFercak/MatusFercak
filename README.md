@@ -9,4 +9,4 @@
 
 ### Kontakt
 - mail: matusfercak@gmail.com
-- tel. č.: <a href="">+421948 363 199</a>
+
