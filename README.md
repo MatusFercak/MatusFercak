@@ -5,6 +5,9 @@
 <a href="https://www.fei.tuke.sk/sk">
  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/FEI_TUKE_logo.png" alt="Tuke" />
 </a>
+<a href="https://www.fei.tuke.sk/sk">
+ <img width="200" src="https://kkui.fei.tuke.sk/wp-content/uploads/2019/07/logo_kkui-1024x356.png" alt="Tuke" />
+</a>
 
 <br/>
 <br/>
