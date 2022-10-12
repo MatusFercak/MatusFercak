@@ -12,4 +12,4 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,sass,js,ts,svelte,deno,mysql,docker,git&perline=10)](https://www.linkedin.com/in/matúš-ferčák-4ba51a212)
+[![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,sass,js,ts,svelte,deno,mysql,docker,git&perline=11)](https://www.linkedin.com/in/matúš-ferčák-4ba51a212)
