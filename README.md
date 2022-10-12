@@ -1,4 +1,4 @@
-## Vitajte na mojom git účte  
+# Hello there
 
 ### Som študentom na Technickej univerzite v Košiciach 
 - Študujem na KKUI inteligentne systémy 
@@ -6,6 +6,8 @@
 
 <br/>
 <br/>
+
+ <img width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsk.wikipedia.org%2Fwiki%2FFakulta_elektrotechniky_a_informatiky_Technickej_univerzity_v_Ko%25C5%25A1iciach&psig=AOvVaw0WThOl3AjaTT3oVQPtEq3_&ust=1665653995823000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCUuu-y2voCFQAAAAAdAAAAABAD" alt="Tuke" />
 
 ### Skills
 
