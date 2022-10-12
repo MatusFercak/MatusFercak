@@ -1,14 +1,13 @@
 # Hello there
 
-### Som študentom na Technickej univerzite v Košiciach 
-- Študujem na KKUI inteligentne systémy 
-- Venujem sa algoritmizacii a programovaniu 
+### Student at
 
-<br/>
-<br/>
 <a href="https://www.fei.tuke.sk/sk">
  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/FEI_TUKE_logo.png" alt="Tuke" />
 </a>
+
+<br/>
+<br/>
 
 ### Skills
 
