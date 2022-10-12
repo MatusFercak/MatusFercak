@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <a href="https://www.fei.tuke.sk/sk">
- <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/FEI_TUKE_logo.png" alt="Tuke" />
+ <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/FEI_TUKE_logo.png" alt="Tuke" />
 </a>
 
 ### Skills
