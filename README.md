@@ -9,4 +9,4 @@ I am Matúš Ferčák, flexible fullstack developer.
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,js,ts,svelte,mysql,git&perline=11)](https://www.linkedin.com/in/matúš-ferčák-4ba51a212)
+[![My Skills](https://skillicons.dev/icons?i=appwrite,aws,git,vim,html,css,js,ts,svelte,mysql,git&perline=11)](https://www.linkedin.com/in/matúš-ferčák-4ba51a212)
